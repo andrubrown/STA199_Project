@@ -15,7 +15,8 @@ dogcat_class.R    # Classification methods used
 
 data_matrix.RData # The entire matrix of color values. WARNING: Very large!
 
-data_class.RData
+dogcat_class.RData # Contains results of classification, such as time to complete
+                   # or the classifier objects themselves
 
 # ***** PICTURES *****
 glm_curve.png     # Represents the classification curve for penalized GLM
